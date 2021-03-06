@@ -1,0 +1,22 @@
+baseURL = "https://prokopic.dev/"
+languageCode = "en-us"
+title = "Nikola Prokopić"
+theme="archie"
+copyright = "© Nikola Prokopić"
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/nprokopic"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/nprokopic"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/nprokopic"
